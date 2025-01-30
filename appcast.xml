@@ -3,12 +3,12 @@
     <channel>
         <title>Zen Sounds</title>
         <item>
-            <title>1.1.7</title>
-            <pubDate>Sat, 06 Jul 2024 11:19:13 +0530</pubDate>
-            <sparkle:version>1.1.7</sparkle:version>
-            <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
+            <title>1.1.8</title>
+            <pubDate>Thu, 30 Jan 2025 23:40:02 +0530</pubDate>
+            <sparkle:version>1.1.8</sparkle:version>
+            <sparkle:shortVersionString>1.1.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/arunyagoojar/zensounds-updates/releases/download/zen/Zen.Sounds.dmg" length="76336207" type="application/octet-stream" sparkle:edSignature="ipl+M8u8C/HZLpFHZ73BaJAgIMOq6QMgszl/kJh4Hq5eWjKfnxi1+gtby+b6ErMvfz0EZbAbmDCKTMwyTl/KDQ=="/>
+            <enclosure url="https://github.com/arunyagoojar/zensounds-updates/releases/download/zen/Zen.Sounds.dmg" length="76322496" type="application/octet-stream" sparkle:edSignature="t/G3hX+uF/dWR+H/oiq5W2nw7RjSrNSwjIvRnTJrhZ0kqluwGF9nBZkq8cv7lEpkB7DnjIJlhDlkS1Vj82vfDg=="/>
         </item>
     </channel>
 </rss>
